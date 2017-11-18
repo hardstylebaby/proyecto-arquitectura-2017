@@ -1,0 +1,38 @@
+@charset "utf-8";
+/* CSS Document */
+
+*{
+	margin: 0;
+	padding: 0;
+}
+body{
+	background: #000000;
+}
+.container{
+	max-width: 930px;
+	margin: 0px auto;
+	background: #32447C;
+}
+
+h1{
+	color: darkcyan;
+}
+.contenido{
+	padding: 40px;
+	color: #CC5C22;
+	
+}
+
+.flote{
+	border: 2px solid #9A9A9A ;
+	
+	
+}
+.retro{
+	color: aliceblue;
+}
+
+
+
+
+

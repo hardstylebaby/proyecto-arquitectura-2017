@@ -1,0 +1,33 @@
+@charset "utf-8";
+/* CSS Document */
+
+*{
+	margin: 0;
+	padding: 0;
+}
+body{
+	background: #3A1B1B;
+}
+.container{
+	max-width: 930px;
+	margin: 0px auto;
+	background: #DBE35D;
+}
+
+h1{
+	color: #B54B0B;
+}
+.contenido{
+	padding: 40px;
+	color: #6F6A68;
+	
+}
+
+.flote{
+	border: 2px solid #9A9A9A ;
+	
+	
+}
+.retro{
+	color: black;
+}

@@ -1,0 +1,33 @@
+@charset "utf-8";
+/* CSS Document */
+
+*{
+	margin: 0;
+	padding: 0;
+}
+body{
+}
+.container{
+	max-width: 100%;
+	background-color: #f6f67c;
+	margin: 0px auto;
+}
+
+h1{
+	color: #3D578E;;
+}
+.titulo{
+}
+.contenido{
+	padding: 40px;
+	color: #346462;
+	width: 960px;
+	font-size: 20px;
+	margin: 0 auto;
+}
+
+
+.flote{
+	border: 4px solid #DD1A1D ;
+	
+}

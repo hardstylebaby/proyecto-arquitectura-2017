@@ -1,0 +1,62 @@
+@charset "utf-8";
+/* CSS Document */
+*{
+	margin: 0;
+	padding: 0;
+}
+body{
+}
+.contenedor{
+	margin: 10px auto;
+	width: 1150px;
+	
+}
+
+.texto>h1{
+	margin-top: 30px;
+	text-align: center;
+	color: #3D578E;
+	font-size: 40px;
+	
+}
+.abajo{
+	overflow: hidden;
+}
+
+.abajo>h1{
+	margin: 20px;
+	font-size: 30px;
+	color: #3D578E;
+	border-bottom: 2px solid #EB4B4D;
+	border-width: 10px;
+	
+}
+.abajo2>il>ul{
+    min-width: 50px;
+	display: block;
+	padding: 10px 15px;
+}
+
+.abajo2>a{
+	width: 10px;
+}
+
+.articulo{
+	overflow: hidden;
+
+}
+.articulo>div{
+	float: left;
+	margin: 20px 10px 20px 10px;
+}
+.articulo>div>h1{
+	color: #32466F;
+	font-size: 20px;
+	text-align: center;
+	margin: 5px;
+}
+.articulo>div>img{
+	width: 350px;
+	height: 280px;
+}
+

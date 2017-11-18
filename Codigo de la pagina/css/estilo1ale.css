@@ -1,0 +1,36 @@
+@charset "utf-8";
+/* CSS Document */
+*{
+	margin: 0;
+	padding: 0;
+	font-family: elephant;
+}
+body{
+	
+}
+.container{
+	margin: 10px auto;
+	width: 100%;
+	
+}
+h1{
+	text-align: center;
+}
+.cuerpo{
+	width: 960px;
+	margin: 0 auto;
+	padding: 20px;
+	overflow: hidden;
+	
+}
+
+.cuerpo>div{
+	float: left;
+	margin: 15px;
+}
+
+
+
+
+	
+

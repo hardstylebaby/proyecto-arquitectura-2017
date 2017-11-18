@@ -1,0 +1,39 @@
+@charset "utf-8";
+/* CSS Document */
+
+*{
+	margin: 0;
+	padding: 0;
+}
+body{
+}
+.container{
+	max-width: 100%;
+	margin:    10px auto;
+	background: #A0393B;
+}
+.baner{
+	
+}
+h1{
+	color: #46AC42;
+}
+.contenido{
+	padding: 40px;
+}
+
+.flote{
+	
+	float: left;
+	margin: 4px;
+	
+}
+
+.contenidogeneral>.imagenes>p{
+	font-size: 25px;
+	color: white;
+}
+
+
+
+
