@@ -1,0 +1,8 @@
+.pie{
+	overflow: hidden;
+	margin-top: 60px;
+}
+
+.pie>div{
+	float left;
+}
