@@ -1,0 +1,34 @@
+@charset "utf-8";
+/* CSS Document */
+*{
+	margin: 0;
+	padding: 0;
+}
+body{
+	background: #F2F737;
+}	
+
+.contenedor{
+	overflow: hidden;
+}
+.N1{
+	float: left;
+	margin:  20px 10px 40px 40px  ;
+	width: 540px;
+}
+.N2{
+	float: left;
+	margin: 20px 10px 40px 40px;
+	width: 550px;
+}
+.N3{
+	float: left;
+	margin: 20px 10px 40px 40px;
+	width: 550px;
+}
+.N4{
+	float: left;
+	margin: 20px 10px 10px 40px;
+	width: 550px;
+}
+
